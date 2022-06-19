@@ -1,0 +1,24 @@
+C:/Users/EDWIN GITHINJI/source/repos/forecast/bin/Debug/forecast.mdf
+C:/Users/EDWIN GITHINJI/source/repos/forecast/bin/Debug/forecast_log.ldf
+C:/Users/EDWIN GITHINJI/source/repos/forecast/bin/Debug/forecast.exe.config
+C:/Users/EDWIN GITHINJI/source/repos/forecast/bin/Debug/forecast.exe
+C:/Users/EDWIN GITHINJI/source/repos/forecast/bin/Debug/forecast.pdb
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.csproj.AssemblyReference.cache
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.Form1.resources
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.Properties.Resources.resources
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.csproj.GenerateResource.cache
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.csproj.CoreCompileInputs.cache
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.exe
+C:/Users/EDWIN GITHINJI/source/repos/forecast/obj/Debug/forecast.pdb
+/home/thomas/Desktop/forecast/bin/Debug/forecast.mdf
+/home/thomas/Desktop/forecast/bin/Debug/forecast_log.ldf
+/home/thomas/Desktop/forecast/bin/Debug/forecast.exe.config
+/home/thomas/Desktop/forecast/bin/Debug/forecast.exe
+/home/thomas/Desktop/forecast/bin/Debug/forecast.pdb
+/home/thomas/Desktop/forecast/obj/Debug/forecast.csprojAssemblyReference.cache
+/home/thomas/Desktop/forecast/obj/Debug/forecast.Form1.resources
+/home/thomas/Desktop/forecast/obj/Debug/forecast.Properties.Resources.resources
+/home/thomas/Desktop/forecast/obj/Debug/forecast.csproj.GenerateResource.cache
+/home/thomas/Desktop/forecast/obj/Debug/forecast.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/forecast/obj/Debug/forecast.exe
+/home/thomas/Desktop/forecast/obj/Debug/forecast.pdb

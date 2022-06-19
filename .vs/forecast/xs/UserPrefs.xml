@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0B922684-72D6-470F-BB30-3EAE872FBFDA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="forecast" expanded="True" selected="True">
+            <Node name="forecast" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="forecast.mdf" expanded="True" />
+              <Node name="forecastdata.xsd" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.forecast PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
